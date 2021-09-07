@@ -1,4 +1,4 @@
- Bem vindos/ Welcome, Eu sou Gustavo Scotti 👋
+ <strong>Bem vindos/ Welcome, Eu sou Gustavo Scotti</strong> 👋
 
 - 🤓 Estudante de Engenharia da Computação
 - 🌱 Estudando Algoritimo e JavaScript
